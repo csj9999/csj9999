@@ -55,3 +55,9 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&" alt="csj9999" />
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csj9999&show_icons=true&locale=en&layout=compact" alt="csj9999" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csj9999&show_icons=true&locale=en" alt="csj9999" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&" alt="csj9999" /></p>
