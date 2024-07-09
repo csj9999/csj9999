@@ -55,5 +55,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&" alt="csj9999" />
 </p>
-
-<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/3o6vY4VYyQG4BLCQxi/giphy.gif">
