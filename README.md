@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chathumin Sasindu</h1></br>
 <h3 align="center">Dedicated Student | Seeking Career-Building Internships | Excited to Discover New Things</h3>
+<hr>
   <img align="right" alt="Coding" width="400" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 
