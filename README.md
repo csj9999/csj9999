@@ -14,8 +14,7 @@
 
   </br>
   </br>
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csj9999" alt="csj9999" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csj9999" alt="csj9999" /></a> </p>
 
 
 </br>
