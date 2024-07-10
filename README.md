@@ -4,9 +4,6 @@
 
   <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" /> </p>
-
 - 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
 
 - 🌱 I’m currently learning **MERN stack**
