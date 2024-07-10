@@ -5,6 +5,9 @@
   <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
 
   <br>
+  <br>
+  <br>
+
 
 - 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
 
