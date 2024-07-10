@@ -4,6 +4,7 @@
     <img align="left" alt="Coding" width="80" height="80" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"> 
     <br>
     <h3><b>About Me</b></h3>
+    <hr>
 
 
   <br>
