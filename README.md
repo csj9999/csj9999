@@ -2,7 +2,8 @@
 <h3 align="center">Dedicated Student | Seeking Career-Building Internships | Excited to Discover New Things</h3>
   <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
     <img align="left" alt="Coding" width="100" height="100" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"> 
-    <br><b>About Me</b>
+    <br>
+    <br><h5><b>About Me</b></h5>
 
 
   <br>
