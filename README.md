@@ -14,7 +14,7 @@
 
 - 👨‍💻 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **A Career-Building Opportunity**
+- 👯 I’m looking to collaborate on a **Career-Building Opportunity**
 
   </br>
   </br>
