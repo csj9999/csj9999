@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chathumin Sasindu</h1></br>
 <h3 align="center">Dedicated Student | Seeking Career-Building Internships | Excited to Discover New Things</h3>
 <hr>
-  <img align="right" alt="Coding" width="400" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+  <img align="right" alt="Coding" width="400" height="200" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" /> </p>
