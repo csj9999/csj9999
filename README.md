@@ -12,7 +12,7 @@
 
 - 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
 
-- 🌱 I’m currently learning **MERN stack**
+- 👨‍💻 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **A Career-Building Opportunity**
 
