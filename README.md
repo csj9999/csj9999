@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chathumin Sasindu</h1></br>
 <h3 align="center">Dedicated Student | Seeking Career-Building Internships | Excited to Discover New Things</h3>
+  <img align="right" alt="Coding" width="400" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" /> </p>
 
@@ -8,9 +10,6 @@
 - 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **A Career-Building Opportunity**
-
-  <img align="right" alt="Coding" width="400" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-
 
   </br>
   </br>
