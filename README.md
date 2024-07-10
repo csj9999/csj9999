@@ -7,8 +7,6 @@
 
 
   <br>
-  <br>
-  <br>
 
 
 - 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
