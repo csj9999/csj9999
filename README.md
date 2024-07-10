@@ -5,14 +5,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csj9999" alt="csj9999" /></a> </p>
-
 
 - 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
 
 - 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **A Career-Building Opportunity**
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csj9999" alt="csj9999" /></a> </p>
+
 
 </br>
 </br>
