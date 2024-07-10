@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **A Career-Building Opportunity**
 
-- ⚡ Fun fact: **I'm a Good Singer**
-
 </br>
 </br>
 
