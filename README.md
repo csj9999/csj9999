@@ -1,29 +1,33 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chathumin+Sasindu"></h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chathumin+Sasindu">
+</h1>
+
 <br>
-  <img align="right" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
-  <p align="center">
-    <img align="left" alt="Coding" width="80" height="80" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"> 
-    <br>
-    <h3><b>About Me</b></h3>
-    <hr>
 
+<img align="right" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
 
-  <br>
+<p align="center">
+  <img align="left" alt="Coding" width="80" height="80" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"> 
+</p>
 
+<br>
 
-- 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
-- 🏫 I'm currently an intern at <a href="https://zerocode.lk"> **ZeroCode Software**</a>
+<h3><b>About Me</b></h3>
+<hr>
 
-</br>
-</br>
+<br>
+
+- 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"><b>SLIIT</b></a>  
+- 🏫 I'm currently an intern at <a href="https://zerocode.lk"><b>ZeroCode Software</b></a>
+
+<br><br>
 
 <h3 align="center">🧰 Languages & Tools</h3>
 
-<table align="center" width="100%">
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
 
-  <td width="50%" valign="top" align="center">
+   <td width="50%" valign="top" align="center" style="border:none;">
 
 <h4>💻 Programming Languages</h4>
 <p align="center">
@@ -46,7 +50,7 @@
 
   </td>
 
-   <td width="50%" valign="top" align="center">
+   <td width="50%" valign="top" align="center" style="border:none;">
 
 <h4>🛠 Backend & Frameworks</h4>
 <p align="center">
@@ -74,19 +78,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
 </p>
 
-   </td>
+  </td>
   </tr>
 </table>
 
+<br><br>
 
-</br>
-</br>
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" /> </p>
-
-</br>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&" alt="csj9999" /></p>
+<br>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&" alt="csj9999" />
+</p>
