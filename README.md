@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chathumin Sasindu</h1></br>
-<h3 align="center">Dedicated Student | Seeking Career-Building Internships | Excited to Discover New Things</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Undergraduate+at+SLIIT;Intern+at+ZeroCode+Software;Aspiring+Software+Engineer&center=true&width=600&height=45">
+</p>
+
+<br>
+
+<hr>
   <img align="right" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
     <img align="left" alt="Coding" width="80" height="80" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"> 
     <br>
