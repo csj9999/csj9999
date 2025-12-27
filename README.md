@@ -1,26 +1,23 @@
-<h1 align="center">Hi 👋, I'm Chathumin Sasindu</h1>
-
-<h3 align="center">
-Dedicated Student | Seeking Career-Building Internships | Excited to Discover New Things
-</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chathumin+Sasindu"></h1>
 <br>
+  <img align="right" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
+  <p align="center">
+    <img align="left" alt="Coding" width="80" height="80" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"> 
+    <br>
+    <h3><b>About Me</b></h3>
+    <hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Undergraduate+at+SLIIT;Intern+at+ZeroCode+Software;Aspiring+Software+Engineer&center=true&width=600&height=45">
-</p>
 
-<br>
+  <br>
 
-<hr>
 
-<h3 align="center">👨‍🎓 About Me</h3>
+- 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
+- 🏫 I'm currently an intern at <a href="https://zerocode.lk"> **ZeroCode Software**</a>
 
-<p align="center">
-🎓 Undergraduate at <b>Faculty of Computing – SLIIT</b><br>
-💼 Intern at <b>ZeroCode Software</b><br>
-🚀 Passionate about Full-Stack & Mobile Development
-</p>
+</br>
+</br>
+
 
 <hr>
 
@@ -87,20 +84,15 @@ Dedicated Student | Seeking Career-Building Internships | Excited to Discover Ne
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csj9999&show_icons=true&theme=tokyonight">
+</br>
+</br>
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" /> </p>
+
+</br>
+<p align="left">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csj9999&layout=compact&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20Views&color=0e75b6&style=flat">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&" alt="csj9999" /></p>
