@@ -46,7 +46,6 @@
 
   </td>
 
-    <!-- RIGHT COLUMN -->
    <td width="50%" valign="top" align="center">
 
 <h4>🛠 Backend & Frameworks</h4>
