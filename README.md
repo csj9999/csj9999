@@ -1,7 +1,5 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chathumin+Sasindu"></h1>
-</p>
-</br>
 <br>
   <img align="right" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
   <p align="center">
