@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chathumin Sasindu</h1></br>
 <br>
   <img align="right" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Undergraduate+at+SLIIT;Intern+at+ZeroCode+Software;Aspiring+Software+Engineer&center=true&width=600&height=45">
+</p>
     <img align="left" alt="Coding" width="80" height="80" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"> 
     <br>
     <h3><b>About Me</b></h3>
