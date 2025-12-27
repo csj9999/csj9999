@@ -17,16 +17,13 @@
 
 </br>
 </br>
-<h3 align="center">🧰 Languages & Tools</h3>
-
-<br>
 
 <h3 align="center">🧰 Languages & Tools</h3>
 
 <table align="center" width="100%">
   <tr>
-    <!-- LEFT COLUMN -->
-    <td width="50%" valign="top" align="center">
+
+  <td width="50%" valign="top" align="center">
 
 <h4>💻 Programming Languages</h4>
 <p align="center">
