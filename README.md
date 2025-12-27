@@ -11,10 +11,7 @@
 
 
 - 🏫 I’m currently an Undergraduate at the Faculty of Computing at <a href="https://www.sliit.lk"> **SLIIT** </a>
-
-- 👨‍💻 I’m currently learning **MERN stack**
-
-- 👯 I’m looking to collaborate on a **Career-Building Opportunity**
+- 🏫 I'm currently an intern at <a href="https://zerocode.lk"> **ZeroCode Software**</a>
 
 </br>
 </br>
