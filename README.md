@@ -46,9 +46,9 @@
   <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
 </p>
 
-    </td>
+  </td>
 
-    <td align="center" width="50%" valign="top">
+  <td align="center" width="50%" valign="top">
 
 <h4>🛠 Backend, DevOps & Tools</h4>
 
@@ -78,7 +78,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
 </p>
 
-    </td>
+  </td>
   </tr>
 </table>
 
