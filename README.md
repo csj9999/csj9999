@@ -49,7 +49,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+</br>
 <p align="left">
 </p>
 
