@@ -89,10 +89,8 @@
 </br>
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathumin-j&label=Profile%20views&color=0e75b6&style=flat" alt="chathumin-j" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=csj9999&label=Profile%20views&color=0e75b6&style=flat" alt="csj9999" /> </p>
 
 </br>
 <p align="left">
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csj9999&" alt="csj9999" /></p>
