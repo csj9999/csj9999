@@ -13,7 +13,7 @@
 
 
 - 🎓 I graduated with a BSc (Hons) in Information Technology from the Faculty of Computing at<a href="https://www.sliit.lk"> **SLIIT** </a>
-- 💼 I completed my internship as a Trainee Software Engineer at<a href="https://zerocode.lk"> **ZeroCode Software**</a>,, where I worked on backend systems using Java and Spring Boot
+- 💼 I completed my internship as a Software Engineer at<a href="https://zerocode.lk"> **ZeroCode Software**</a>,, where I worked on backend systems using Java and Spring Boot
 
 </br>
 </br>
